@@ -165,7 +165,7 @@ def turn
     turn
   end
 end
-def turn_count
+def turn_cunt
   @board.count{|token| token == "X" || token == "O"}
 end
 def current_player
